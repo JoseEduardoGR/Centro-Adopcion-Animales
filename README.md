@@ -1,7 +1,7 @@
 <table>
   <tr>
     <td width="150">
-      <h1 style="font-size: 80px; margin: 0;">🐾</h1>
+      <img src="assets/logo.png" width="120" alt="Centro Adopción Logo">
     </td>
     <td>
       <h1>Centro de Adopción de Animales</h1>
